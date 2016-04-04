@@ -1,7 +1,7 @@
 <?
 /*
 Plugin Name: Simple Google Analytics Plugin
-Plugin URI: http://domain.co.uk
+Plugin URI: http://thinklab.co.uk
 Description: Adds a Google analytics tracking code to the <head> of your theme, by hooking to wp_head.
 Author: thinklab
 Version: 1.0
